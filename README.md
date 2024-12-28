@@ -70,25 +70,25 @@ There is a certain amount of necessary equipment that goes into conducting a com
 - [ ] **Posters**: get posters printed and pasted in Halls and other common places 2-3
 days before the comp
 - [ ] **Scorecards**: Print all scorecards (around 1 per person per event). The current process used to make 
-scorecards is that we have one blank scorecard template currently. I first convert
-that to an image with `ffmpeg` or `ImageMagick` by
-```
-ffmpeg -i scorecards.pdf scorecard.png
-```
-this throws some errors that I haven't looked into but gets the job done. ImageMagick
-is better suited for this though  
-```
-magick scorecards.pdf scorecards.png
-```
-Once I have the `.png` I open it up in `GIMP`, edit the name of the competition and 
-convert it back to `.pdf` with 
-```
-img2pdf scorecard.png -o scorecard.pdf
-```
+  scorecards is that we have one blank scorecard template currently. I first convert
+  that to an image with `ffmpeg` or `ImageMagick` by
+  ```
+  ffmpeg -i scorecards.pdf scorecard.png
+  ```
+  this throws some errors that I haven't looked into but gets the job done. ImageMagick
+  is better suited for this though  
+  ```
+  magick scorecards.pdf scorecards.png
+  ```
+  Once I have the `.png` I open it up in `GIMP`, edit the name of the competition and 
+  convert it back to `.pdf` with 
+  ```
+  img2pdf scorecard.png -o scorecard.pdf
+  ```
 - [ ] **Certificates and Medals**: if offerring certificates and medals get those printed
 on time as well
 
-Certificate Template Editing Links: <TBD>
+  Certificate Template Editing Links: <TBD>
 
 - [ ] **Timers and Mats**: Make sure all timers and working and you have enough mats.
 You may borrow large mousepads from friends if not sufficient.
@@ -167,4 +167,55 @@ Examples: <TBD>
 
 You will also need a 1:1 aspect version of your poster so plan accordingly. 
 
-# Competition Day <a name="competition_day"/>
+# Competition Day <a name="competition_day"></a>
+
+On the day of the competition
+1. Set up the room
+1. Conduct the competition
+1. Awards
+1. Clean the room
+
+### Setting up the Room
+
+Make sure you reach early and carry 2 hardcopies of the auditorium booking form. Get the
+room opened by the guard. This is the hardest part. 
+- Decide where to set the solving station, the waiting area, and scrambling area. Because
+  our benches are so shit setting multiple solving stations on the same bench is hard, so
+  using the front rows is recommended because judges can stand then.
+- Lay out the mats and timers and setup the scrambling area. Make sure there is appropiate gap
+  between the solving stations and that the scrambling area is in a slightly further away area.
+- Borrow mousepads from friends for mats. We'll get them on college budget when possible
+- **IMP:** Fill the blackboard with the name of the comp and cool stuff.
+
+### Conducting the competition
+
+Conduct a competition as similar to a WCA comp as you can. You will be busy. Find WCA regs [here](https://regulations.worldcubeassociation.org/wca-regulations-and-guidelines.pdf)
+
+Make sure you're speaking politely to people, and that you're helping them out with their queries. A
+major tip is to delegate tasks to people, you physically can't do everything. You really have to take a 
+leadership role.
+
+Make sure to take lots of *good* photos. Call a friend if needed.
+
+### Awards
+
+Conduct the award ceremony. If you were using [livescore](https://github.com/KGP-Speedcubers/live-result)
+for results then this should be fast. Give out whatever prices you had. If there is a prof or parent in attendance
+then get them to give out prizes. Take images. Announce the sponsor and say thanks.
+
+### Clean the room
+
+Clean the room
+
+# After the Competition <a name="post_comp"></a>
+
+Make a results post, we have a standard template, which while ugly is decently functional. Make more templates when you can. 
+Canva Link: [here](https://www.canva.com/design/DAFyP0XQcoU/SzHP66SES0Agc6gVfCSwPA/edit?utm_content=DAFyP0XQcoU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton). 
+Make a copy and edit it. Write a short writeup and post to socials with nice images. 
+
+Submit bills to TSG.
+
+
+
+
+
